@@ -1,0 +1,22 @@
+<html>
+  <body>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Interest</th>
+      <tr>
+        <td>Jennifer Stone</td>
+        <td>Moura Landers</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>17</td>
+      </tr>
+      <tr>
+        <td>Soccer</td>
+        <td>Anime</td>
+      </tr>
+    </table>
+  </body>
+</html>
