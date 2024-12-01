@@ -1,16 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-  </head>
   <body>
-    <h1> The Title Of My Website </h1>
-
-    <p> A paragraph explaining more information about my website </p>
-
-    <script src="script.js"></script>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Interest</th>
+      <tr>
+        <td>Jennifer Stone</td>
+        <td>Moura Landers</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>17</td>
+      </tr>
+      <tr>
+        <td>Soccer</td>
+        <td>Anime</td>
+      </tr>
+    </table>
   </body>
 </html>
